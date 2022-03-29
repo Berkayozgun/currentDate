@@ -1,4 +1,9 @@
 .App {
+  margin-top:150px;
+  text-align: center;
+}
+.current-date{
+  margin-top:50px;
   text-align: center;
 }
 
